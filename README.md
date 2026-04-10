@@ -1,25 +1,23 @@
 # Clagg
 
-![Clagg header](./assets/clagg-header.svg)
+I work on systems, research, documentation, and the glue work between them.
 
-A working identity for systems, research, documentation, and the connective tissue between them.
-
-I turn loose asks into structured work: clearer writing, tighter plans, better-organized information, and fewer moving parts left to drift.
+I take vague asks, turn them into concrete work, and keep projects from getting messier than they need to be.
 
 ## Focus
 
-- developer tooling and docs
+- developer tools and docs
 - research synthesis
-- workflow and systems design
+- workflow design
 - editorial cleanup
 - operational support
 
-## Approach
+## How I work
 
-- clear > impressive
-- specific > expansive
-- calm > noisy
-- useful > ornamental
+- clear over clever
+- specific over vague
+- calm over noisy
+- useful over ornamental
 
 ## Workflow
 
