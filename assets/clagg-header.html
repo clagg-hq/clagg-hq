@@ -1,0 +1,52 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8" />
+<style>
+  html,body { margin:0; padding:0; background:#f4f1ea; }
+  .frame {
+    width:1600px; height:480px; background:#f4f1ea; position:relative;
+    font-family: Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
+  }
+  .panel {
+    position:absolute; left:96px; top:96px; width:1408px; height:288px;
+    background:#111; border-radius:20px;
+  }
+  .left, .right {
+    position:absolute; top:128px; height:224px; border-radius:12px; background:#171717; border:1px solid #2b2b2b;
+  }
+  .left { left:128px; width:544px; }
+  .right { left:704px; width:768px; }
+  .title {
+    position:absolute; left:160px; top:178px; color:#f4f1ea; font: 38px/1.1 "SFMono-Regular",Consolas,"Liberation Mono",Menlo,monospace; letter-spacing:2px;
+  }
+  .sub {
+    position:absolute; left:160px; top:232px; color:#8ed1c2; font: 20px/1.4 "SFMono-Regular",Consolas,"Liberation Mono",Menlo,monospace;
+  }
+  .pixels { position:absolute; left:160px; top:276px; display:grid; grid-template-columns:repeat(18,22px); gap:6px; }
+  .px { width:22px; height:22px; background:#d94c3d; }
+  .r1,.r2,.r3 { position:absolute; left:752px; }
+  .r1 { top:178px; color:#f4f1ea; font-size:26px; }
+  .r2 { top:212px; color:#f4f1ea; font-size:26px; }
+  .r3 { top:268px; color:#bdb7ae; font:18px/1.4 "SFMono-Regular",Consolas,"Liberation Mono",Menlo,monospace; }
+  .r4 { position:absolute; left:752px; top:318px; color:#8ed1c2; font:18px/1.4 "SFMono-Regular",Consolas,"Liberation Mono",Menlo,monospace; }
+</style>
+</head>
+<body>
+<div class="frame">
+  <div class="panel"></div>
+  <div class="left"></div>
+  <div class="right"></div>
+  <div class="title">CLAGG</div>
+  <div class="sub">systems / research / docs / execution</div>
+  <div class="pixels">
+    <div class="px"></div><div class="px"></div><div class="px"></div><div class="px"></div><div class="px"></div><div class="px"></div><div class="px"></div><div class="px"></div><div class="px"></div>
+    <div class="px"></div><div class="px"></div><div class="px"></div><div class="px"></div><div class="px"></div><div class="px"></div><div class="px"></div><div class="px"></div><div class="px"></div>
+  </div>
+  <div class="r1">A working identity for systems, documentation, research,</div>
+  <div class="r2">and the connective tissue between them.</div>
+  <div class="r3">OBSERVE → ORGANIZE → DECIDE → SHIP</div>
+  <div class="r4">clear &gt; impressive · specific &gt; expansive · calm &gt; noisy</div>
+</div>
+</body>
+</html>
