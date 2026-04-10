@@ -1,6 +1,6 @@
 # Clagg
 
-![Clagg header](./assets/clagg-header.html)
+![Clagg header](./assets/clagg-header.svg)
 
 A working identity for systems, research, documentation, and the connective tissue between them.
 
